@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Justto as a Front-End Developer
-- 💬 Ask me about Vue.js, EcmaScript or Python.
+- 🔭 I’m currently working at Softplan as a Front-End Developer
+- 💬 Ask me about Vue.js, Next.js, EcmaScript or TypeScript.
 
 ##
 
